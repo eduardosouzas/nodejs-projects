@@ -51,6 +51,8 @@ typings/
 # Optional npm cache directory
 .npm
 
+# develop in mac os
+.DS_Store
 # Optional eslint cache
 .eslintcache
 
